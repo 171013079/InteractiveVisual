@@ -1,8 +1,8 @@
 # InteractiveVisual
 
-提供pythonanywhere以供查看：[pythonanywhere地址](http://linpican33.pythonanywhere.com/)
-提供18合作学生的python地址已查看具体内容：[github](https://github.com/LinliMingNewmedia/Python/blob/master/Readme.md）
-提供ipynb档的pages页面：[html](http://nfunm079.gitee.io/interactive_visual2020/)
+提供pythonanywhere以供查看：[pythonanywhere地址](http://linpican33.pythonanywhere.com/)<br>
+提供18合作学生的python地址已查看具体内容：[github](https://github.com/LinliMingNewmedia/Python/blob/master/Readme.md）<br>
+提供ipynb档的pages页面：[html](http://nfunm079.gitee.io/interactive_visual2020/)<br>
 
 具体数据故事都在表内 可在pythonanywhere或pages查看
 css更改如下：
